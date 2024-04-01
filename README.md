@@ -7,6 +7,7 @@ You can get started by running the following commands
 ```bash
 neu create testapp --template viralgupta/node-neutralinojs-template
 cd testapp/backend
+npm install
 cd ..
 node backend/index.js
 ```
